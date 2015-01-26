@@ -1,1 +1,0 @@
-../../../client/src/crypto/NoCryptographyPublicParameters.cpp
